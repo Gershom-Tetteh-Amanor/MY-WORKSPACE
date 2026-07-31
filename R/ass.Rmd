@@ -1,0 +1,72 @@
+---
+title: "Assignment II"
+author: "Gershon Tetteh Amanor"
+date: "`r Sys.Date()`"
+output:
+  #word_document: default
+  html_document: default
+---
+
+| NAMES                 | IDS      |
+|-----------------------|----------|
+| GERSHON TETTEH AMANOR | 10967696 |
+| JOHN                  |          |
+| SYLVESTER             |          |
+| SYLVESTER             |          |
+|                       |          |
+
+: GROUP MEMBERS
+
+------------------------------------------------------------------------
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+```{r}
+# loading the MASS package since the anorexia data is in the MASS package
+library(MASS)
+
+# setting the margins
+par(mar = c(4,4,1,1))
+boxplot(Prewt~Treat,
+        data = anorexia,
+        xlab = 'Treatment Type',
+        ylab = 'Pre weight (lbs)',
+        col = c('red','white','blue'))
+```
+
+## R Markdown
+
+The anorexia data is a Weight change data for 72 young female anorexia patients. Here we want to compare the distribution of the pre-weight of the patients on the three different treatment types, **"Cont"** (control), **"CBT"** (Cognitive Behavioural treatment) and **"FT"** (family treatment).
+
+plan
+
+1.  Looking at the shapes of these plots, *CBT* and *FT* are slightly normally distributed since the lengths of the upper and lower whiskers are slightly the same for both of them but that of *Cont* is slightly positively skewed.
+
+2.  The *CBT* group has two extreme weights (outliers) of about 70lbs and 95lbs however, the *Cont* and *FT* groups have no extreme weights.
+
+3.  on average, the *CBT* and *FT* groups have equal weights of about 83lbs however, the *Cont* group on average weighs about 80lbs.
+
+4.  spread
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+boxplot(count~spray,
+        data=InsectSprays,
+        col = rainbow(6),
+        ylab = 'count of insects',
+        xlab = 'spray')
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

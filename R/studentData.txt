@@ -1,0 +1,191 @@
+Timestamp	StudentAge	Gender	Nationality	Major	FirstPhoneAge	Provider	Devices	WeeklyPhone	SocialMedia	Sleep	MobileMoney	Food	Study	Gym	StudySpace	Health	Writing	Math
+8/26/2019 8:53:19	19	Male	Ghana	BA	13	Vodafone	3	0	4	10	No	20	14	No	Lab 221	1	Yes	No
+8/26/2019 8:53:27	18	Male	Ghana	MIS	8	MTN	6	30	3.5	12	Yes	20	0	Yes	Students hangout	0	Yes	Yes
+8/26/2019 8:55:54	20	Female	Ghana	MIS	10	MTN	2	20	2	6	Yes	20	5	Yes	Lab 221	3	Yes	No
+8/26/2019 8:56:08	23	Male	Ghana	CS	15	MTN	2	10	4.5	6.5	Yes	35	5	Yes	Lab 221	5	Yes	Yes
+8/26/2019 8:56:11	23	Male	Ghana	Engineering	5	MTN	2	45	3.5	8	Yes	22	11	No	Library Study Area	1	Yes	No
+8/26/2019 8:56:54	18	Male	Ghana	Engineering	10	AirtelTigo	2	40	3	6	No	10	7	Yes	Any of the classrooms	2	Yes	No
+8/26/2019 8:56:56	20	Male	Ghana	BA	18	MTN	2	10	5	6	Yes	26	10	No	Any of the classrooms	3	Yes	Yes
+8/26/2019 8:58:05	20	Male	Ghana	BA	20	MTN	2	25	3.5	3.5	Yes	25	1	Yes	Any of the classrooms	2	Yes	Yes
+8/26/2019 8:59:29	23	Male	Rwanda	BA	17	AirtelTigo	2	2	3	8	No	35	8	Yes	Fab Lab 	4	Yes	Yes
+8/26/2019 9:01:01	22	Female	Uganda	CS	12	AirtelTigo	1	18	2.5	6	No	19.6	5	No	Under the stairs at the administration block	5	Yes	Yes
+8/26/2019 9:01:20	19	Female	Ghana	BA	13	AirtelTigo	2	10	2	6	No	20	16	No	Any of the classrooms	1	Yes	No
+8/26/2019 9:02:55	20	Female	South Sudan	BA	15	MTN	2	20	15	8	No	35	8	Yes	Any of the classrooms	4	No	Yes
+8/26/2019 9:03:14	18	Female	Ghana	MIS	10	Vodafone	2	10	6	5	Yes	20	9	No	Hive	1	Yes	No
+8/26/2019 9:04:28	19	Female	Ghana	BA	13	MTN	2	20	3.5	10	Yes	25	7.5	No	Library Study Area	2	Yes	Yes
+8/26/2019 9:04:41	18	Female	Ghana	MIS	12	MTN	2	10	6	7	Yes	12	3	No	Room	1	Yes	Yes
+8/26/2019 9:11:49	22	Female	Ghana	MIS	19	MTN	2	40	3.5	3.5	Yes	34	7	No	Any of the classrooms	1	Yes	Yes
+8/26/2019 9:21:38	18	Male	Ghana	MIS	15	MTN	2	0	5	7	No	10	4	Yes	Library Study Area	0	Yes	Yes
+8/26/2019 9:23:31	20	Male	USA	BA	11	MTN	2	0	0.5	7	No	15.5	3	No	Any of the classrooms	3	No	No
+8/26/2019 9:23:42	19	Male	Ghana	CS	11	Vodafone	3	30	5	6	Yes	10	15	Yes	Library Study Area	5	Yes	Yes
+8/26/2019 9:27:39	18	Male	Ghana	CS	12	Vodafone	2	40	5	5	No	23	7	Yes	Any of the classrooms	0	Yes	Yes
+8/26/2019 9:29:20	18	Male	Ghana	MIS	13	MTN	2	20	4.5	5	Yes	18	10	No	Any of the classrooms	0	Yes	Yes
+8/26/2019 9:31:15	18	Male	Ghana	CS	15	MTN	2	20	4	8	Yes	5	7	No	Any of the classrooms	3	Yes	Yes
+8/26/2019 9:33:06	19	Male	Ghana	CS	15	MTN	2	30	5	7	No	53	6	No	Under the stairs at the administration block	3	Yes	Yes
+8/26/2019 9:37:13	19	Female	Ghana	MIS	13	AirtelTigo	2	20	5	7	No	25	13	Yes	Fab Lab	1	Yes	Yes
+8/26/2019 9:44:35	18	Male	Ghana	CS	15	MTN	2	20	6	7	No	30	4	No	Room	4	Yes	No
+8/26/2019 9:44:36	22	Male	Ghana	BA	16	Vodafone	2	15	2	3.5	Yes	45	14	Yes	Any of the classrooms	5	Yes	Yes
+8/26/2019 9:54:04	21	Female	Ghana	BA	16	MTN	2	15	4.2	6	Yes	34	12	No	Lab 221	3	Yes	Yes
+8/26/2019 9:55:51	19	Male	Ghana	Engineering	8	MTN	2	0.5	1.5	7	Yes	25	5	Yes	Lobby	5	Yes	No
+8/26/2019 10:01:24	16	Male	Nigeria	CS	12	MTN	3	8.85	5	7	No	25	15	No	D-Lab	2	Yes	No
+8/26/2019 10:08:10	19	Male	Ghana	BA	18	Vodafone	2	10	3	8	Yes	26	5	No	Any of the classrooms	15	Yes	Yes
+8/26/2019 10:11:49	19	Female	Ghana	BA	13	Vodafone	2	20	2	10	Yes	35	2	No	Any of the classrooms	2	Yes	Yes
+8/26/2019 10:16:58	20	Male	Ghana	Engineering	9	MTN	2	20	4.5	6	No	7.5	42	No	Any of the classrooms	1	Yes	Yes
+8/26/2019 10:24:13	19	Male	Ghana	BA	13	Vodafone	2	50	5	6	Yes	10	18	Yes	Library Study Area	0	Yes	Yes
+8/26/2019 10:26:42	17	Male	Ghana	BA	13	MTN	2	20	17	7	Yes	50	25	Yes	Library Study Area	1	Yes	Yes
+8/26/2019 10:27:33	19	Male	Ghana	CS	16	MTN	3	10	3	8	No	22	10	No	Any of the classrooms	4	Yes	Yes
+8/26/2019 10:27:37	20	Male	Ghana	CS	6	Vodafone	4	20	2	6	No	10	40	No	Any of the classrooms	4	Yes	No
+8/26/2019 10:29:37	19	Male	Ghana	CS	12	MTN	2	20	2	6.5	No	30	4	No	Library Study Area	2	Yes	No
+8/26/2019 10:30:41	19	Male	Ghana	BA	13	MTN	2	60	6	6	Yes	45	3	Yes	Any of the classrooms	6	Yes	No
+8/26/2019 10:37:13	19	Female	Ghana	BA	11	MTN	3	25	3	6	Yes	16.5	10	No	D-Lab	3	Yes	Yes
+8/26/2019 10:37:15	19	Female	Ghana	BA	15	AirtelTigo	2	10	3.5	7	No	10.5	12	No	Room	3	Yes	Yes
+8/26/2019 10:37:48	18	Female	Nigeria	CS	13	AirtelTigo	2	8	3	6	Yes	20	10	No	Library Study Area	5	Yes	Yes
+8/26/2019 10:47:55	19	Female	Ghana	MIS	13	AirtelTigo	2	8	6.4	4.8	No	3	13	No	Any of the classrooms	4	Yes	Yes
+8/26/2019 11:12:55	23	Male	Ghana	BA	19	MTN	2	10	4	6	Yes	20	50	No	Lab 221	7	Yes	Yes
+8/26/2019 11:13:36	21	Male	Ghana	CS	15	MTN	2	30	5	6	Yes	25	1	No	Any of the classrooms	1	Yes	No
+8/26/2019 11:17:18	19	Female	Ghana	BA	9	Vodafone	2	15	5	8	Yes	20	2.5	No	Green Lounge	5	Yes	No
+8/26/2019 11:18:22	19	Male	Ghana	MIS	9	MTN	3	30	4	5	No	10	4	Yes	Any of the classrooms	2	Yes	Yes
+8/26/2019 11:26:12	17	Female	Ghana	MIS	10	Vodafone	2	0	2.5	8	No	25	2	Yes	Any of the classrooms	1	Yes	Yes
+8/26/2019 11:32:44	19	Female	Ghana	BA	11	MTN	3	25	3	6	Yes	16.5	10	No	D-Lab	3	Yes	Yes
+8/26/2019 12:11:07	18	Female	Ghana	MIS	11	MTN	2	15	4.5	6.5	Yes	40	15	No	Library Study Area	1	Yes	No
+8/26/2019 12:15:07	19	Male	Ghana	BA	12	MTN	4	50	3.5	7	No	30	5	No	Room	3	Yes	Yes
+8/26/2019 12:32:40	19	Male	Ghana	Engineering	11	MTN	2	20	1.5	7	Yes	10	5	No	Hive	1	Yes	No
+8/26/2019 12:33:32	20	Male	Ghana	CS	16	Vodafone	2	2	2.25	6.45	Yes	12	7.5	No	Room	8	Yes	No
+8/26/2019 12:34:52	20	Male	Ghana	CS	16	MTN	2	5	4	5	Yes	10	6.5	Yes	Students hangout	0	Yes	No
+8/26/2019 13:00:21	20	Female	Ghana	CS	11	Vodafone	2	50	5	7	Yes	12	38	Yes	Any of the classrooms	5	Yes	Yes
+8/26/2019 13:15:15	20	Male	Ghana	CS	16	Vodafone	2	2	2.25	6.45	Yes	12	7.5	No	Room	8	Yes	No
+8/26/2019 13:19:37	21	Male	Ghana	BA	20	MTN	2	5	3	6	Yes	35	20	No	Under the stairs at the administration block	2	Yes	Yes
+8/26/2019 13:29:02	21	Male	Cameroon	CS	17	AirtelTigo	2	10	3	5	No	28	10	No	Any of the classrooms	6	Yes	No
+8/26/2019 13:35:38	19	Male	Ghana	CS	10	AirtelTigo	2	10	4	5.5	No	0	10	No	Library Study Area	0	Yes	Yes
+8/26/2019 13:43:19	19	Female	Ghana	MIS	12	AirtelTigo	4	50	6	6	Yes	0	2	Yes	Any of the classrooms	1	Yes	Yes
+8/26/2019 13:45:03	20	Male	Ghana	CS	11	MTN	4	10	5	7	Yes	20	4	No	Any of the classrooms	4	Yes	Yes
+8/26/2019 13:59:39	19	Female	Ghana	BA	15	Vodafone	2	5	3.5	3.5	No	14	10	No	Library Study Area	4	Yes	Yes
+8/26/2019 14:00:11	20	Female	Ghana	BA	18	MTN	2	10	7	4	No	9	30	No	Room	2	Yes	Yes
+8/26/2019 14:01:08	19	Male	USA	CS	14	MTN	2	20	4	5	Yes	20	5	Yes	Library Study Area	3	No	No
+8/26/2019 14:19:24	18	Male	Ghana	CS	15	MTN	2	50	5	5	Yes	0	9	Yes	Hakuna Matata	2	Yes	No
+8/26/2019 14:48:38	19	Female	Ghana	BA	12	MTN	2	20	5	7.5	No	0	12	Yes	Any of the classrooms	0	Yes	Yes
+8/26/2019 14:51:22	18	Female	Ghana	BA	15	Vodafone	2	30	10.5	6.5	No	28	15	No	Under the stairs at the administration block	0	Yes	Yes
+8/26/2019 14:52:43	19	Female	Ghana	MIS	14	MTN	3	10	3.5	8	Yes	9	60	No	Any of the classrooms	2	Yes	Yes
+8/26/2019 15:07:09	19	Male	Ghana	BA	12	AirtelTigo	2	25	6	6.5	Yes	10	1.5	No	Students hangout	1	Yes	Yes
+8/26/2019 15:07:33	19	Female	Ghana	BA	11	MTN	2	8	5	6	Yes	11.5	4	No	Lab 221	3	Yes	Yes
+8/26/2019 15:13:16	20	Male	Zimbabwe	Engineering	13	MTN	2	15	3	5	Yes	35	6	No	Any of the classrooms	6	Yes	Yes
+8/26/2019 15:16:32	18	Female	Ghana	MIS	12	AirtelTigo	3	10	2	4	No	12	2	Yes	Any of the classrooms	2	Yes	Yes
+8/26/2019 15:16:44	18	Male	Ghana	MIS	16	AirtelTigo	3	20	4	7	Yes	6	18	No	Students hangout	0	Yes	No
+8/26/2019 15:27:09	20	Female	Ghana	BA	16	MTN	2	10	1.2	5.5	No	7	10	No	Any of the classrooms	2	Yes	Yes
+8/26/2019 15:30:06	19	Male	Ghana	CS	6	Vodafone	4	0	4	6	No	20	8	No	D-Lab	0	Yes	Yes
+8/26/2019 15:48:02	21	Male	Ghana	MIS	18	MTN	1	6	2.5	6	No	27	6	No	Room	2	Yes	No
+8/26/2019 15:56:03	18	Female	Ghana	CS	16	MTN	2	50	4	7	Yes	7.5	15	No	Room	0	Yes	Yes
+8/26/2019 16:01:13	19	Male	Ghana	CS	11	MTN	3	20	5	6.5	Yes	0	4	No	Any of the classrooms	0	Yes	No
+8/26/2019 16:04:51	20	Male	Ghana	BA	15	Vodafone	2	25	12	7.5	No	20	3	No	Any of the classrooms	2	Yes	No
+8/26/2019 16:08:43	19	Female	Ghana	MIS	13	MTN	2	14	5	6	Yes	12	8.5	Yes	Library Study Area	3	Yes	Yes
+8/26/2019 16:21:33	20	Male	Ghana	BA	14	MTN	2	50	6	6	Yes	20	4	Yes	Library Study Area	3	Yes	Yes
+8/26/2019 16:22:10	18	Female	Ghana	BA	13	Vodafone	2	2	5	6	Yes	10	3	Yes	Any of the classrooms	1	Yes	Yes
+8/26/2019 16:24:32	19	Female	Ghana	BA	11	AirtelTigo	2	0	5	6	No	9.7	16	No	Room	3	Yes	Yes
+8/26/2019 16:26:17	18	Female	Ghana	BA	12	MTN	2	40	3.5	6	Yes	17	15	No	Any of the classrooms	4	Yes	No
+8/26/2019 16:27:36	18	Male	Ghana	BA	9	Vodafone	2	0	3.5	7	Yes	10	10	Yes	Any of the classrooms	1	Yes	No
+8/26/2019 16:45:56	18	Male	Ghana	CS	10	AirtelTigo	2	7	3	7.5	Yes	0	7	No	Green Lounge	0	Yes	No
+8/26/2019 16:53:58	19	Male	Ghana	MIS	9	MTN	2	30	6	6.5	Yes	25	28	Yes	Any of the classrooms	5	Yes	Yes
+8/26/2019 16:57:14	20	Female	Ghana	MIS	8	AirtelTigo	2	30	5	7	No	50	18	Yes	Green Lounge	0	Yes	Yes
+8/26/2019 16:59:39	19	Female	Ghana	BA	9	AirtelTigo	3	10	3.5	6	Yes	16	3	No	Any of the classrooms	2	Yes	Yes
+8/26/2019 17:00:30	18	Male	USA	BA	14	Vodafone	2	25	3	6.5	No	30	18	No	Lab 221	6	Yes	No
+8/26/2019 17:13:06	20	Female	Ghana	BA	18	Vodafone	2	8	5	7.5	No	31.8	5	No	Lab 221	2	Yes	Yes
+8/26/2019 17:15:23	21	Female	Ghana	BA	16	MTN	3	10	4	4	Yes	9	9	No	Room 	3	Yes	No
+8/26/2019 17:17:17	19	Female	Rwanda	BA	14	AirtelTigo	2	0	4	9	Yes	35	8	Yes	Any of the classrooms	6	Yes	Yes
+8/26/2019 17:17:22	18	Female	Ghana	BA	10	MTN	2	5	1	7.5	Yes	25	6	No	Any of the classrooms	3	Yes	Yes
+8/26/2019 17:19:48	19	Male	Ghana	CS	8	MTN	2	50	4	4	No	20	5	No	Any of the classrooms	1	Yes	Yes
+8/26/2019 17:32:56	19	Male	Ghana	CS	12	MTN	2	48	5	7.5	Yes	15	2	No	Library Study Area	4	Yes	No
+8/26/2019 17:38:58	19	Male	Ghana	BA	15	MTN	2	20	6	8	No	9	4	No	Room	1	Yes	No
+8/26/2019 17:40:29	18	Male	Ghana	CS	15	MTN	2	55	6	6	Yes	30	5	No	Lobby	1	Yes	No
+8/26/2019 17:44:00	19	Male	Ghana	CS	10	Vodafone	3	14	5	7	Yes	10	4	No	Lab 221	0	Yes	Yes
+8/26/2019 17:47:31	18	Male	Ghana	CS	15	Vodafone	2	5	5	6	Yes	22	12	Yes	Library Study Area	8	Yes	Yes
+8/26/2019 18:00:15	19	Female	Ghana	BA	11	Vodafone	2	1	8	7	Yes	5	10	No	Any of the classrooms	2	Yes	No
+8/26/2019 18:16:34	20	Male	Ghana	CS	17	AirtelTigo	2	15	2	7	Yes	33	8	Yes	The Hive	5	Yes	Yes
+8/26/2019 18:20:28	23	Male	Ghana	CS	14	MTN	2	20	1	10	Yes	35	10	No	Any of the classrooms	6	Yes	Yes
+8/26/2019 18:40:57	18	Male	Ghana	CS	10	MTN	4	10	4.5	7	Yes	0	3	No	Library Study Area	0	Yes	No
+8/26/2019 18:42:16	18	Female	Ghana	BA	13	MTN	2	20	8	5	Yes	10	30	No	Lab 221	4	Yes	Yes
+8/26/2019 18:43:43	19	Female	Ghana	BA	13	AirtelTigo	2	50	12	5	Yes	0	8	No	Hive	0	Yes	No
+8/26/2019 19:02:41	19	Female	Rwanda	MIS	15	MTN	2	5	2	9	Yes	30	4	No	Any of the classrooms	5	Yes	No
+8/26/2019 19:10:27	19	Female	Ghana	MIS	11	AirtelTigo	2	30	4	7	No	40	9	Yes	Any of the classrooms	1	Yes	No
+8/26/2019 19:11:13	19	Male	Nigeria	BA	10	MTN	2	30	10	5	No	40	2	Yes	Library Study Area	0	Yes	Yes
+8/26/2019 19:24:35	19	Male	Ghana	MIS	10	Vodafone	2	35	3.5	7	Yes	20	5	Yes	Library Seminar Room	1	Yes	Yes
+8/26/2019 19:32:12	21	Female	Cameroon	BA	18	MTN	2	2	2	6	No	20	15	No	Room	3	Yes	No
+8/26/2019 20:06:46	19	Female	Ghana	BA	10	MTN	2	50	3.5	7	Yes	10	23	No	Any of the classrooms	2	Yes	Yes
+8/26/2019 20:12:12	19	Male	Ghana	MIS	9	Vodafone	3	25	2	6	Yes	40	14	No	Library Study Area	10	Yes	Yes
+8/26/2019 20:13:42	20	Male	Ghana	BA	10	MTN	3	3	3.5	7	No	60	3	Yes	Any of the classrooms	2	No	Yes
+8/26/2019 20:16:36	20	Male	Ghana	BA	10	MTN	2	10	2	4.5	Yes	10	15	No	Any of the classrooms	5	Yes	Yes
+8/26/2019 20:24:36	19	Female	Ghana	CS	7	MTN	2	20	4	6	Yes	0	8	No	Any of the classrooms	2	Yes	Yes
+8/26/2019 20:38:54	20	Male	Ghana	MIS	15	MTN	2	10	4	6	Yes	20	20	No	Fab Lab	5	Yes	No
+8/26/2019 20:41:35	19	Female	Ghana	MIS	18	MTN	2	20	3	8	No	30	15	No	Any of the classrooms	1	Yes	Yes
+8/26/2019 20:44:28	19	Male	Ghana	MIS	14	MTN	2	10	3.5	4.5	Yes	10	4	No	Any of the classrooms	1	Yes	Yes
+8/26/2019 20:45:16	19	Female	Ghana	CS	12	MTN	3	30	4	6	Yes	14	14	No	Any of the classrooms	1	Yes	Yes
+8/26/2019 20:48:24	17	Male	Ghana	BA	10	Vodafone	3	20	4.5	7.5	Yes	10	6	No	Any of the classrooms	2	Yes	Yes
+8/26/2019 20:48:24	20	Female	Ghana	BA	12	MTN	2	50	4	10	Yes	20	3	Yes	Any of the classrooms	2	Yes	Yes
+8/26/2019 20:53:57	19	Female	Ghana	BA	18	Vodafone	2	20	3.5	8	No	20	16	No	Any of the classrooms	2	Yes	Yes
+8/26/2019 20:55:48	19	Female	Ghana	BA	11	Vodafone	2	15	4	5	Yes	0	10	Yes	Any of the classrooms	3	Yes	Yes
+8/26/2019 20:57:04	19	Female	Ghana	BA	11	Vodafone	2	30	1.5	6	Yes	32	7	Yes	Any of the classrooms	2	Yes	Yes
+8/26/2019 20:58:53	18	Male	Ghana	BA	9	MTN	2	40	5	10	Yes	12	4	No	Library Seminar Room	2	Yes	No
+8/26/2019 21:00:57	19	Male	Ghana	CS	15	Vodafone	2	5	4	6	No	0	3	Yes	Any of the classrooms	0	Yes	Yes
+8/26/2019 21:03:58	19	Male	Ghana	MIS	11	AirtelTigo	3	5	1.5	5.5	Yes	0	16	No	Any of the classrooms	1	Yes	Yes
+8/26/2019 21:10:15	18	Male	Ghana	MIS	8	MTN	2	55	1.5	8	Yes	0	6	Yes	Hive	2	Yes	Yes
+8/26/2019 21:16:34	20	Female	Zimbabwe	Engineering	13	MTN	2	5	3	7	No	30	10	Yes	Any of the classrooms	7	Yes	Yes
+8/26/2019 21:30:15	18	Female	Ghana	BA	12	MTN	3	5	0	4.5	Yes	14.5	2	No	Any of the classrooms	5	Yes	No
+8/26/2019 21:33:21	19	Male	Ghana	MIS	14	Vodafone	2	10	6	6.5	Yes	0	3	No	Hakuna Matata	2	Yes	Yes
+8/26/2019 21:33:27	18	Male	Ghana	CS	13	Vodafone	2	10	1	5	No	17	5	No	Hakuna Matata	4	Yes	No
+8/26/2019 21:36:20	19	Male	Ghana	BA	17	AirtelTigo	2	10	9.5	7.5	No	20	5	No	Library Study Area	1	Yes	No
+8/26/2019 21:39:57	20	Male	Ghana	CS	12	Vodafone	3	10	6	6	No	14	6	No	Green Lounge	5	Yes	Yes
+8/26/2019 22:02:00	20	Female	Ghana	CS	18	MTN	2	6	3.5	7	Yes	35	7	No	Students hangout	5	Yes	No
+8/26/2019 22:44:17	22	Female	Ghana	BA	18	MTN	2	5	4	6	Yes	35	6	No	Lab 221	4	Yes	Yes
+8/26/2019 22:52:30	19	Male	Ghana	BA	12	AirtelTigo	2	40	3	7	No	0	6	No	Any of the classrooms	3	Yes	No
+8/26/2019 22:55:52	18	Male	Nigeria	MIS	10	MTN	2	20	5.5	6	No	0	5	Yes	Hakuna Matata	3	Yes	No
+8/26/2019 22:56:27	21	Male	Ghana	BA	12	MTN	2	5	3	6	Yes	30	7	No	Green Lounge	2	Yes	Yes
+8/26/2019 23:08:33	18	Male	Nigeria	Engineering	10	AirtelTigo	3	0	4.1	7	No	8	21	No	Lobby	4	Yes	Yes
+8/26/2019 23:21:42	19	Female	Ghana	CS	16	MTN	2	10	3.5	8	Yes	20	10	No	FAB Lab	6	Yes	Yes
+8/26/2019 23:27:04	20	Female	Ghana	BA	11	MTN	2	0	3.5	5.5	Yes	0	3	No	Any of the classrooms	2	Yes	Yes
+8/26/2019 23:41:39	19	Male	Ghana	CS	11	MTN	2	20	4	3	Yes	13	2	Yes	Library Seminar Room	1	No	No
+8/26/2019 23:48:10	17	Female	Ghana	BA	11	MTN	3	50	17	5	Yes	0	6	Yes	Any of the classrooms	4	Yes	Yes
+8/27/2019 0:06:57	19	Female	Ghana	BA	10	MTN	2	6	8.5	7	Yes	11	12	No	Green Lounge	3	Yes	Yes
+8/27/2019 0:35:10	18	Male	Ghana	MIS	7	AirtelTigo	3	2	1	7.55	No	2	21	No	Any of the classrooms	2	Yes	Yes
+8/27/2019 0:36:16	19	Female	Ghana	MIS	8	AirtelTigo	2	20	2.5	3.5	Yes	5	14	Yes	Any of the classrooms	2	Yes	Yes
+8/27/2019 0:38:26	17	Female	Ghana	BA	10	Vodafone	2	15	2.5	6.5	No	0	3	No	Library Seminar Room	2	Yes	No
+8/27/2019 0:38:55	19	Female	Ghana	Engineering	13	Vodafone	2	20	2	7	No	20	6	No	Any of the classrooms	6	Yes	Yes
+8/27/2019 0:41:35	18	Female	Ghana	BA	12	AirtelTigo	2	20	3.5	4.5	Yes	12	8	No	Any of the classrooms	3	Yes	Yes
+8/27/2019 0:50:04	19	Female	Ghana	BA	8	AirtelTigo	2	20	5	6	No	15	3	No	Hive	3	Yes	Yes
+8/27/2019 1:14:44	17	Female	Ghana	BA	10	Vodafone	2	5	2.5	6.5	No	0	2	No	Room	2	Yes	No
+8/27/2019 6:08:00	19	Female	Kenya	CS	13	MTN	2	20	5	7.5	No	35	10	No	Any of the classrooms	5	Yes	Yes
+8/27/2019 6:20:21	19	Female	Ghana	BA	11	MTN	2	15	3.5	5.5	Yes	35	6	Yes	Library Study Area	2	Yes	Yes
+8/27/2019 6:56:47	18	Male	Ghana	MIS	7	AirtelTigo	3	2	1	7.55	No	2	21	No	Any of the classrooms	2	Yes	Yes
+8/27/2019 7:10:32	19	Female	Ghana	BA	13	Vodafone	2	40	4	5	No	5	3	No	Fab Lab 	1	Yes	Yes
+8/27/2019 7:15:30	19	Female	Ghana	BA	18	MTN	2	50	2.5	5.5	No	10	4	Yes	Any of the classrooms	1	Yes	Yes
+8/27/2019 8:11:44	18	Female	Ghana	MIS	14	MTN	2	7	1	7	No	0	3	Yes	Room	1	Yes	Yes
+8/27/2019 8:24:35	18	Female	Ghana	CS	17	Vodafone	2	10	2	6.5	Yes	20	2	No	Any of the classrooms	3	Yes	Yes
+8/27/2019 8:47:55	18	Male	Ghana	BA	12	MTN	2	60	4.5	6	Yes	0	5	Yes	Any of the classrooms	2	Yes	Yes
+8/27/2019 9:12:01	18	Female	Ghana	BA	8	AirtelTigo	3	30	4.5	4	No	0	3	No	Any of the classrooms	4	Yes	No
+8/27/2019 9:36:20	19	Female	Ghana	BA	10	MTN	3	30	4.5	6	Yes	20	2	No	Hakuna Matata	10	Yes	Yes
+8/27/2019 9:36:31	19	Female	Ghana	BA	9	MTN	2	50	18	5	Yes	3	3	No	Hakuna Matata	2	Yes	Yes
+8/27/2019 9:40:43	20	Female	Ghana	BA	7	MTN	2	50	6	8	Yes	10	5	No	Any of the classrooms	5	Yes	Yes
+8/27/2019 9:44:47	20	Female	Ghana	MIS	10	Vodafone	2	15	10	7	Yes	10	3	No	Any of the classrooms	2	Yes	Yes
+8/27/2019 11:04:23	19	Female	Ghana	BA	10	MTN	3	30	4.5	6	Yes	20	2	No	Hakuna Matata	10	Yes	Yes
+8/27/2019 11:23:39	20	Male	Ghana	MIS	17	AirtelTigo	2	10	2	6	No	27	5	Yes	Any of the classrooms	5	Yes	No
+8/27/2019 11:42:32	20	Female	Ghana	BA	17	MTN	2	20	3.5	8	No	20	2	No	Library Study Area	6	Yes	Yes
+8/27/2019 12:00:45	20	Female	Rwanda	CS	14	MTN	2	10	5	10	Yes	30	5	No	Any of the classrooms	5	Yes	Yes
+8/27/2019 12:40:42	19	Male	Ghana	CS	15	AirtelTigo	2	10	10	8	Yes	8	2	No	Library Study Area	3	Yes	Yes
+8/27/2019 13:12:32	20	Male	Ghana	BA	13	MTN	2	5	4	8	Yes	33.2	7	No	Library Study Area	0	Yes	Yes
+8/27/2019 14:32:22	20	Female	Zimbabwe	CS	16	MTN	2	0	3.5	7	No	35	4	No	Room	2	Yes	No
+8/27/2019 15:21:05	19	Female	Ghana	MIS	16	AirtelTigo	2	2	1	7.5	Yes	32.5	21	No	Any of the classrooms	3	Yes	No
+8/27/2019 18:32:55	21	Female	Zimbabwe	MIS	17	AirtelTigo	2	15	3	6	No	35	8	No	Any of the classrooms	5	Yes	Yes
+8/27/2019 19:10:57	19	Male	Ghana	BA	15	MTN	3	50	3	7	Yes	5	25	No	Any of the classrooms	2	Yes	Yes
+8/27/2019 19:21:29	20	Male	Ghana	BA	15	AirtelTigo	2	5	4.5	7.5	No	27	10	No	Any of the classrooms	2	Yes	Yes
+8/27/2019 20:16:22	19	Female	Ghana	MIS	9	Vodafone	2	5	12	6	No	25	10	No	Any of the classrooms	2	Yes	No
+8/27/2019 20:20:15	20	Male	Ghana	MIS	15	MTN	3	50	3	6	Yes	25	25	Yes	Library Study Area	2	Yes	No
+8/27/2019 20:39:55	19	Male	Ghana	CS	15	Vodafone	2	5	4	6	No	0	3	Yes	Any of the classrooms	0	Yes	Yes
+8/27/2019 21:58:18	20	Male	Ghana	MIS	9	MTN	3	30	2	5	Yes	20	2	Yes	Any of the classrooms	1	Yes	Yes
+8/27/2019 22:56:33	19	Female	Ghana	CS	15	AirtelTigo	2	50	9	7	Yes	20	12	Yes	Any of the classrooms	3	No	Yes
+8/28/2019 0:06:00	21	Male	Ghana	CS	8	AirtelTigo	2	20	2.5	7.5	Yes	15	9	No	Any of the classrooms	0	Yes	Yes
+8/28/2019 14:48:53	18	Female	Nigeria	CS	16	AirtelTigo	2	20	4	1	No	22.5	10	No	Any of the classrooms	10	Yes	No
+8/28/2019 17:00:30	21	Male	Ghana	BA	13	Vodafone	2	10	4	5	Yes	12	3	No	Any of the classrooms	5	Yes	Yes
+8/28/2019 17:06:54	19	Female	Rwanda	MIS	14	MTN	2	0	4	8	Yes	28	7	No	Any of the classrooms	5	Yes	Yes
+8/28/2019 17:15:16	19	Male	Ghana	BA	8	Vodafone	4	20	6	6	Yes	9	4	No	Lobby	0	Yes	Yes
+8/28/2019 20:48:35	20	Male	Malawi	MIS	15	MTN	2	35	2.5	7	Yes	34.6	3.5	Yes	Library Seminar Room	4	Yes	Yes
+8/28/2019 21:34:12	24	Male	DRC	BA	16	AirtelTigo	2	10	4	6.5	No	45	5	Yes	Lab 221	5	Yes	Yes
+8/28/2019 21:51:47	19	Male	Ghana	CS	18	MTN	2	20	2	6	Yes	50	10	No	Any of the classrooms	1	Yes	No
+8/28/2019 23:31:29	19	Female	Ghana	BA	9	MTN	2	10	10	6	Yes	7.5	3	No	Any of the classrooms	4	Yes	Yes
