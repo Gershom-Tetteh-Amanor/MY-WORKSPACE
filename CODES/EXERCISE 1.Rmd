@@ -1,0 +1,166 @@
+---
+title: "EXERCISE 1"
+date: "`r Sys.Date()`"
+output: html_document
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+|                            |          |
+|----------------------------|----------|
+| NAMES                      | IDS      |
+| GERSHON TETTEH AMANOR      | 10967696 |
+| ANGMORTEY SYLVESTER TETTEH | 10965548 |
+| JOHN EVORDA                | 10971696 |
+| SYLVESTER SADASCO NKRUMAH  | 10964940 |
+| NANA ASIEDU AKROFI         | 10986678 |
+
+Studying the functions ExpQQ and ParetoQQ in the R package ReIns.
+
+```{r}
+library(ReIns)
+?ExpQQ
+?ParetoQQ
+```
+
+i.  Explaining what the outputs show functions, ExpQQ and ParetoQQ.
+
+Exponential quantile plot (ExpQQ) Computes the empirical quantiles of a
+data vector and the theoretical quantiles of the standard exponential
+distribution. These quantiles are then plotted in an exponential QQ-plot
+with the theoretical quantiles on the x-axis and the empirical quantiles
+on the y-axis.
+
+Pareto quantile plot (ParetoQQ) Computes the empirical quantiles of the
+log-transform of a data vector and the theoretical quantiles of the
+standard exponential distribution. These quantiles are then plotted in a
+Pareto QQ-plot with the theoretical quantiles on the x-axis and the
+empirical quantiles on the y-axis.
+
+(ii). Generating a number of observations from a normal distribution
+with mean 20, variance 4 (standard deviation of 2)
+
+```{r}
+set.seed(2)
+X_Norm <- rnorm(n = 100 ,mean = 20, sd = 2)
+
+```
+
+Plotting the graphs for the ExpQQ and ParetoQQ functions
+
+```{r}
+par(mar=c(4,4,1,1))
+par(mfrow = c(1,2))
+
+ExpQQ(X_Norm) 
+ParetoQQ(X_Norm)
+```
+
+Plotting the graphs for the ExpQQ and ParetoQQ functions but without
+tittle
+
+```{r}
+par(mar=c(4,4,1,1))
+par(mfrow = c(1,2))
+
+plot_3 <- ExpQQ(X_Norm, main = "") 
+plot_4 <- ParetoQQ(X_Norm, main = "")
+```
+
+iii. The CDF and the inverted CDFs of Exponential and Pareto
+     distributions
+
+CDFs of exponential and pareto
+
+$F(x)_{exponential} = 1 - e^{- \lambda x} ; x>0, \lambda >0$
+
+$F(x)_{pareto} = 1 - (\frac{\beta}{x})^{\alpha} ; \beta  , \alpha , x >0$
+
+Inverse CDFs of exponential and pareto
+
+$F^{-1}(F(x))_{exponential} = X = \frac{-1}{\lambda}\log(1-p) ; x>0, \lambda >0$
+
+$F^{-1}(F(x))_{pareto} = X = \beta(1-p)^{\frac{-1}{\alpha}} ; \beta  , \alpha , x >0$
+
+iv. Writing a function to produce the plots in (ii) based on the inverse
+    CDFs of exponential and Pareto
+
+```{r}
+ExpQQparQQ <- function(data, lambda=1, beta=1, alpha=3)
+{
+  X <- sort(data)
+  n <- length(X)
+  p <- (1:n)/(n+1)
+
+  ### Quantiles of exponential
+  Exponential <- (-1/lambda)*log(1-p)
+  
+  ### Quantiles of pareto
+  Pareto <- beta*(1-p)^(-1/alpha)
+  
+  par(mar= c(4,4,1,1))
+  par(mfrow = c(1,2))
+  plot(y = X, x = Exponential)
+  plot(y = X,x =  Pareto)
+}
+
+ExpQQparQQ(X_Norm)
+```
+
+Comparing the graphs in (ii) with the ones in (iv)
+
+The Exponential QQ plot is the same for both (ii) and (iv) but the
+pareto QQ plot in (ii) fits a little better than the one in (iv) since
+the one in (ii) is more diagonal along the origin relative to the one in
+(iv).
+
+v.  Simulating 100 observations from the exponential distribution with
+    mean of 4 (rate of 1/4) and then plot it with the function written
+    in (iv)
+
+```{r}
+library(dplyr)
+rexp(n=100, rate = 1/4) |>
+  ExpQQparQQ()
+
+```
+
+The exponential quantile plot fits the dataset better than the pareto
+since the exponential quantile is more diagonal along the origin.
+
+(vi). Reading The Society of Actuaries (SOA) Group Medical Insurance
+data studied in Minkah et al. (2021) found at
+<https://raw.githubusercontent.com/rminkah/DataSets/main/SOA.txt> into R
+
+```{r}
+link <- "https://raw.githubusercontent.com/rminkah/DataSets/main/SOA.txt"
+SOA_DATA <- read.table(link)
+Claims <- SOA_DATA$V1
+
+```
+
+Reproducing the plots concerning the claims data on the left panel
+Figure 10 Minkah et al. (2021, pg. 16) and left panel of Figure 11
+Minkah et al. (2021, pg.17).
+
+```{r}
+par(mar = c(4,4,1,1))
+par(mfrow = c(1,3))
+
+
+plot(Claims)
+
+n <- length(Claims)
+i <- 1:n
+
+
+plot(x = -log(1-i/(n+1)), 
+     y = Claims)
+
+plot(x = -log(1-i/(n+1)), 
+     y = log(Claims))
+```
+
+Comment on the fit of the distributions All the plots shows great
+deviation from linearity

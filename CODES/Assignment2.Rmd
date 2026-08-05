@@ -1,0 +1,55 @@
+---
+title: "Assignment2"
+author: "JOSHUA KPALAM -  10844471"
+date: "`r Sys.Date()`"
+output: word_document
+---
+
+```{r  echo=FALSE}
+# loading the MASS package since the anorexia data is in the MASS package
+library(MASS)
+
+# setting the margins
+par(mar = c(4,4,1,1))
+boxplot(Prewt~Treat,
+        data = anorexia,
+        xlab = 'Treatment Type',
+        ylab = 'Pre weight (lbs)',
+        col = c('red','white','blue'))
+```
+
+#### [DESCRIBING BOX AND WHISKER PLOT FOR PRE WEIGHT AGAINST TREATMENT]
+
+The **anorexia** data is a Weight change data for 72 young female anorexia patients. Here we want to compare the distribution of the pre-weight of the patients on the three different treatment types, **"Cont"** (control), **"CBT"** (Cognitive Behavioural treatment) and **"FT"** (family treatment).
+
+1.  Looking at the shapes of these plots, *CBT* and *FT* are slightly normally distributed since the lengths of the upper and lower whiskers are slightly the same for both of them but that of *Cont* is slightly positively skewed.
+
+2.  The *CBT* group has two extreme weights (outliers) of about 70lbs and 95lbs however, the *Cont* and *FT* groups have no extreme weights.
+
+3.  on average, the *CBT* and *FT* groups have equal weights of about 83lbs however, the *Cont* group on average weighs about 80lbs. This implies that on average, the *CBT* and *FT* groups weigh more than the *Cont* group.
+
+4.  The spread in the weights for the *CBT* group is less wide (about 10lbs) compared to that of the *Cont* and *FT* groups (which are about 20lbs each). On average, about 50% 0f the weights for *CBT* and *FT* lies between 80lbs and 85lbs (giving a spread of 5lbs) while that of *Cont* lies between 77lbs and 82lbs. The pre weights for the *CBT* and *FT* groups are more consistent compared to that of the *Cont* group.
+
+```{r echo=FALSE}
+boxplot(count~spray,
+        data=InsectSprays,
+        col = rainbow(6),
+        ylab = 'count of insects',
+        xlab = 'spray')
+```
+
+#### [DESCRIBING BOX AND WHISKER PLOT FOR COUNT OF INSECTS AGAINST INSECT SPRAYS]
+
+The **InsectSpray** data is the counts of 72 insects in agricultural experimental units treated with six different insecticides. Here we want to compare the distribution of the counts of Insects against the six different sprays. The insect counts are the counts of insects that survive on plots which have been subjected to treatment.
+
+1.  Looking at the shapes of these plots, the distribution for spray *A* is slightly normally distributed since the lengths of the upper and lower whiskers are slightly the same, the distributions for sprays *B* and *D* are negatively skewed and that of sprays *C*, *E* and *F* are positively skewed.
+
+2.  Sprays *C* and *D* have an extreme insect counts (outliers) of about 7 and 13 insects respectively however, sprays *A*, *B*, *E* and *F* have no extreme insects.
+
+3.  on average, spray *A* has insect counts of about 14 insects, spray *B* has insect counts of about 17 insects, spray *C* has insect counts of about 2 insects, spray *D* has insect counts of about 5 insects, spray *E* has insect counts of about 3 insects and spray *F* has insect counts of about 14 insects. Also, spray *A* has a minimum count of about 7 and a maximum count of about 24, spray *B* has a minimum count of about 7 and a maximum count of about 22, spray *C* has a minimum count of about 0 and a maximum count of about 4, spray *D* has a minimum count of about 3 and a maximum count of about 6, spray *E* has a minimum count of about 1 and a maximum count of about 6, spray *F* has a minimum count of about 9 and a maximum count of about 26.
+
+4.  The spread in the insects counts for spray *A* is about 17 insects, for spray *B* is about 15 insects, for spray *C* is about 4 insects, for spray *D* is about 3 insects, for spray *E* is about 5 insects, for spray *F* is about 17 insects.
+
+On average, about 50% 0f the insects counts; for spray *A* lies between 11 and 19 (giving a spread of 8), for spray *B* lies between 12 and 18 (giving a spread of 6), for spray *C* lies between 1 and 3 (giving a spread of 2), for spray *D* lies between 3 and 5 (giving a spread of 2), for spray *E* lies between 2 and 5 (giving a spread of 3), for spray *F* lies between 12 and 24 (giving a spread of 12). The counts for sprays *C, D* and *E* are more consistent compared to that of the *A, B* and *F*
+
+**It would be better for a farmer to go in for spray C since it is more consistent and has the least insect counts (thus few number of insects surviving when spray *A* is applied)**
